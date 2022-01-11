@@ -3,5 +3,12 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.20.2"
+  },
+  "dependencies": {
+    "escpos": "^3.0.0-alpha.6",
+    "escpos-usb": "^3.0.0-alpha.4"
+  },
+  "resolutions": {
+    "usb": "^1.9.2"
   }
 }
